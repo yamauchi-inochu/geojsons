@@ -14,7 +14,9 @@
  "properties": {
     "marker-color": "#363",
     "marker-size": "large",
-    "description":"fujisan"
+    "description":"Fujisan is most high mountain in Japan",
+    "title": "Fujisan",
+
 }},
     { "type": "Feature",
        "properties": { "id": 2, "name": "ashitakayama" },
