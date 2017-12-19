@@ -12,8 +12,7 @@
          "coordinates": [138.7309, 35.3628]
  },
      "properties": {
-       "descriptoion":"Mt.fuji",
-       "marker-color": "#fff"
+      "marker-color": "#fff"
      }
   }]
 }
