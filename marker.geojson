@@ -6,13 +6,13 @@
       },
   "features": [
     { "type": "Feature",
-      "properties": {"id":01 },
+      "properties": {"id":"1" },
       "geometry": {
          "type": "Point",
          "coordinates": [138.7309, 35.3628]
  },
      "properties": {
-       "descriptoion":"Mt.fuji"
+       "descriptoion":"Mt.fuji",
        "marker-color": "#fff"
      }
   }]
