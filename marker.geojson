@@ -9,7 +9,10 @@
       "properties": { },
       "geometry": {
          "type": "Point",
-         "coordinates": [138.7309, 35.3628],
- }
+         "coordinates": [138.7309, 35.3628]
+ },
+     "properties": {
+       "marker-color": "#fff"
+     }
   }]
 }
