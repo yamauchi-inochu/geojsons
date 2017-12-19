@@ -12,7 +12,7 @@
          "coordinates": [138.7309, 35.3628]
  },
  "properties": {
-    "marker-color": "#fff"
+    "marker-color": "#363"
 }},
     { "type": "Feature",
        "properties": { "id": 2, "name": "ashitakayama" },
