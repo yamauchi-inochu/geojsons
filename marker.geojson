@@ -13,7 +13,8 @@
  },
  "properties": {
     "marker-color": "#363",
-    "marker-size": "large"
+    "marker-size": "large",
+    "description":"fujisan"
 }},
     { "type": "Feature",
        "properties": { "id": 2, "name": "ashitakayama" },
